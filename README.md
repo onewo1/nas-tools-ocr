@@ -13,6 +13,6 @@
   - 通过 docker 部署
 
     ```
-    docker run -p 9300:9300 -d vanke3/nas-tools-ocr:latest
+    docker run -p 9300:9300 -d vanked/nas-tools-ocr:latest
     ```
 
